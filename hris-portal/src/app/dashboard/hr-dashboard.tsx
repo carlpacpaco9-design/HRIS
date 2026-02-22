@@ -5,6 +5,7 @@ import Link from 'next/link'
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card"
 import { Users, Calendar as CalendarIcon, FileCheck, ClipboardList, CheckCircle2 } from 'lucide-react'
 import { Button } from "@/components/ui/button"
+import { Badge } from "@/components/ui/badge"
 import { PieChart, Pie, Cell, BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts'
 import { EmptyState } from '@/components/shared/empty-state'
 
@@ -35,73 +36,20 @@ const RATING_COLORS: Record<string, string> = {
     'Poor': '#EF4444'
 }
 
+import { AdminOverviewDashboard } from '@/components/dashboard/admin-overview-dashboard'
+
 export function HRDashboard({ stats }: { stats: any }) {
     const dateStr = format(new Date(), 'EEEE, MMMM d, yyyy')
 
     return (
-        <div className="space-y-6">
-            <div className="text-slate-500">{dateStr}</div>
-
-            {/* QUICK STATS ROW */}
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-                <Card>
-                    <CardContent className="p-6">
-                        <div className="flex items-center space-x-4">
-                            <div className="p-3 bg-blue-50 text-blue-600 rounded-full">
-                                <Users className="w-6 h-6" />
-                            </div>
-                            <div>
-                                <p className="text-sm font-medium text-slate-500">Total Staff</p>
-                                <h3 className="text-2xl font-bold text-slate-900">{stats.totalActiveStaff}</h3>
-                            </div>
-                        </div>
-                    </CardContent>
-                </Card>
-
-                <Card>
-                    <CardContent className="p-6">
-                        <div className="flex items-center space-x-4">
-                            <div className="p-3 bg-amber-50 text-amber-600 rounded-full">
-                                <CalendarIcon className="w-6 h-6" />
-                            </div>
-                            <div>
-                                <p className="text-sm font-medium text-slate-500">Pend. Leave</p>
-                                <h3 className="text-2xl font-bold text-slate-900">{stats.pendingLeaveCount}</h3>
-                            </div>
-                        </div>
-                    </CardContent>
-                </Card>
-
-                <Card>
-                    <CardContent className="p-6">
-                        <div className="flex items-center space-x-4">
-                            <div className="p-3 bg-green-50 text-green-600 rounded-full">
-                                <CheckCircle2 className="w-6 h-6" />
-                            </div>
-                            <div>
-                                <p className="text-sm font-medium text-slate-500">Active Cycle</p>
-                                <h3 className="text-sm font-bold text-slate-900 truncate max-w-[120px]" title={stats.activeCycle?.name || 'None'}>
-                                    {stats.activeCycle?.name || 'None'}
-                                </h3>
-                            </div>
-                        </div>
-                    </CardContent>
-                </Card>
-
-                <Card>
-                    <CardContent className="p-6">
-                        <div className="flex items-center space-x-4">
-                            <div className="p-3 bg-rose-50 text-rose-600 rounded-full">
-                                <ClipboardList className="w-6 h-6" />
-                            </div>
-                            <div>
-                                <p className="text-sm font-medium text-slate-500">IPCR Due</p>
-                                <h3 className="text-2xl font-bold text-slate-900">{stats.ipcrsNotFinalized}</h3>
-                            </div>
-                        </div>
-                    </CardContent>
-                </Card>
+        <div className="space-y-10">
+            <div className="flex items-center justify-between">
+                <div className="text-slate-500 font-medium tracking-wide uppercase text-[10px]">{dateStr}</div>
+                <Badge variant="outline" className="text-[10px] uppercase font-bold text-primary border-primary/20">System Live</Badge>
             </div>
+
+            {/* NEW MODERN ANALYTICS OVERVIEW */}
+            <AdminOverviewDashboard />
 
             {/* PENDING APPROVALS */}
             <Card>
