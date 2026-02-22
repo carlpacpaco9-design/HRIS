@@ -1,0 +1,1 @@
+node_modules/docx/dist/index.d.ts(3,21): error TS1259: Module '"C:/Users/pacpa/OneDrive/Desktop/HRMS ASSESSORS OFFICE/hris-portal/node_modules/jszip/index"' can only be default-imported using the 'esModuleInterop' flag

@@ -1,0 +1,1176 @@
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\actions\approvals.ts
+   13:14  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   85:92  warning  'remarks' is defined but never used       @typescript-eslint/no-unused-vars
+  162:28  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\actions\assessment.ts
+  23:5  error  Use "@ts-expect-error" instead of "@ts-ignore", as "@ts-ignore" will do nothing if the following line is error-free  @typescript-eslint/ban-ts-comment
+  57:5  error  Use "@ts-expect-error" instead of "@ts-ignore", as "@ts-ignore" will do nothing if the following line is error-free  @typescript-eslint/ban-ts-comment
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\actions\attendance.ts
+   4:32  warning  'endOfMonth' is defined but never used    @typescript-eslint/no-unused-vars
+  37:25  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\actions\audit.ts
+  109:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\actions\dashboard.ts
+   60:58   error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  112:55   error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  204:59   error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  287:27   warning  'user' is assigned a value but never used     @typescript-eslint/no-unused-vars
+  290:117  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  348:70   error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  358:56   error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  365:54   error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  398:66   warning  'planRes' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  465:55   error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  542:39   error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\actions\development-plan.ts
+    7:5   warning  'DevelopmentPlan' is defined but never used   @typescript-eslint/no-unused-vars
+   70:19  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+   95:19  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  110:19  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  153:59  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  154:43  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  157:19  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  179:19  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  266:19  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  273:17  warning  'profile' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  303:19  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  310:17  warning  'profile' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  320:19  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  346:19  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  372:19  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  394:19  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  410:19  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  426:19  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\actions\dtr-admin.ts
+    5:49  warning  'startOfMonth' is defined but never used         @typescript-eslint/no-unused-vars
+   71:36  warning  'fetchError' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  107:19  warning  'error' is assigned a value but never used       @typescript-eslint/no-unused-vars
+  150:19  error    Unexpected any. Specify a different type         @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\actions\dtr-encoding.ts
+    5:49  warning  'startOfMonth' is defined but never used  @typescript-eslint/no-unused-vars
+   73:61  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  103:19  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\actions\dtr.ts
+  128:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\actions\ipcr-attachments.ts
+    4:10  warning  'revalidatePath' is defined but never used       @typescript-eslint/no-unused-vars
+   34:72  error    Unexpected any. Specify a different type         @typescript-eslint/no-explicit-any
+  103:13  warning  'count' is assigned a value but never used       @typescript-eslint/no-unused-vars
+  103:27  warning  'countError' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  230:11  warning  'isOwner' is assigned a value but never used     @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\actions\ipcr.ts
+    8:5   warning  'IPCRStatus' is defined but never used        @typescript-eslint/no-unused-vars
+   10:5   warning  'OutputCategory' is defined but never used    @typescript-eslint/no-unused-vars
+   66:21  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+   88:21  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  104:21  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  146:21  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  162:21  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  178:21  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  194:21  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  210:21  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  260:21  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  318:21  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  342:21  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  372:21  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  430:21  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  439:17  warning  'profile' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  455:21  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  517:21  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  548:21  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  599:21  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  635:21  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  655:21  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  672:21  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  689:21  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  706:21  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\actions\mfa.ts
+  45:13  warning  'data' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\actions\monitoring.ts
+   10:5   warning  'MonitoringJournalStatus' is defined but never used  @typescript-eslint/no-unused-vars
+   83:46  error    Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+   90:21  error    Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+  114:21  error    Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+  153:21  error    Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+  194:21  error    Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+  249:45  error    Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+  250:39  error    Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+  253:35  error    Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+  259:21  error    Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+  296:35  error    Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+  299:43  error    Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+  300:37  error    Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+  311:21  error    Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+  320:17  warning  'profile' is assigned a value but never used         @typescript-eslint/no-unused-vars
+  342:21  error    Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+  376:21  error    Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+  410:21  error    Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+  440:21  error    Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+  474:21  error    Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+  508:21  error    Unexpected any. Specify a different type             @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\actions\opcr.ts
+    8:5   warning  'OPCRStatus' is defined but never used       @typescript-eslint/no-unused-vars
+   10:5   warning  'OPCROutputInput' is defined but never used  @typescript-eslint/no-unused-vars
+   69:21  error    Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+   91:21  error    Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+  123:21  error    Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+  193:21  error    Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+  246:21  error    Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+  299:21  error    Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+  341:34  error    Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+  345:36  error    Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+  362:21  error    Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+  402:21  error    Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+  432:21  error    Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+  460:21  error    Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+  503:21  error    Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\actions\report.ts
+  69:50  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\actions\rewards.ts
+   71:57  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   91:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  128:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  143:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  155:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  183:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  215:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  273:51  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  280:41  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  287:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  288:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  300:25  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  301:22  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  313:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  336:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  466:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  503:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  540:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  577:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\actions\settings.ts
+  40:33  warning  'data' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\actions\spms-calendar.ts
+   66:75  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   69:61  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   84:19  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  120:19  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  159:19  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  194:19  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  218:19  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  253:19  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  291:19  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  318:19  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  355:19  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  384:19  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  414:52  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  416:49  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  424:14  warning  'err' is defined but never used           @typescript-eslint/no-unused-vars
+  424:19  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  551:19  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  570:19  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  589:19  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\api\cron\spms-deadlines\route.ts
+  82:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\api\export\development-plan\[id]\route.ts
+  46:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\api\export\dtr-monthly\route.ts
+    4:10  warning  'format' is defined but never used                @typescript-eslint/no-unused-vars
+   18:15  warning  'divisionId' is assigned a value but never used   @typescript-eslint/no-unused-vars
+   34:53  error    Unexpected any. Specify a different type          @typescript-eslint/no-explicit-any
+   41:13  error    'query' is never reassigned. Use 'const' instead  prefer-const
+   69:53  error    Unexpected any. Specify a different type          @typescript-eslint/no-explicit-any
+   79:49  error    Unexpected any. Specify a different type          @typescript-eslint/no-explicit-any
+  116:19  error    Unexpected any. Specify a different type          @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\api\export\ipcr-summary\route.ts
+  37:68  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  56:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\api\export\ipcr\[id]\route.ts
+  30:39  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  33:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  45:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\api\export\opcr\[id]\route.ts
+  45:19  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\dashboard\approvals\approval-list.tsx
+    7:34   warning  'AvatarImage' is defined but never used                          @typescript-eslint/no-unused-vars
+   10:10   warning  'Table' is defined but never used                                @typescript-eslint/no-unused-vars
+   10:17   warning  'TableBody' is defined but never used                            @typescript-eslint/no-unused-vars
+   10:28   warning  'TableCell' is defined but never used                            @typescript-eslint/no-unused-vars
+   10:39   warning  'TableHead' is defined but never used                            @typescript-eslint/no-unused-vars
+   10:50   warning  'TableHeader' is defined but never used                          @typescript-eslint/no-unused-vars
+   10:63   warning  'TableRow' is defined but never used                             @typescript-eslint/no-unused-vars
+   14:117  error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   72:52   error    `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+   87:37   error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  225:53   error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  226:48   error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  227:51   error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\dashboard\approvals\approvals-page-client.tsx
+    7:45  warning  'Star' is defined but never used          @typescript-eslint/no-unused-vars
+   12:5   warning  'TabsContent' is defined but never used   @typescript-eslint/no-unused-vars
+   39:25  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   40:22  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  103:26  warning  'e' is defined but never used             @typescript-eslint/no-unused-vars
+  121:22  warning  'row' is defined but never used           @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\dashboard\development-plan\page.tsx
+  22:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\dashboard\dtr-admin\[id]\page.tsx
+  4:33  warning  'Printer' is defined but never used  @typescript-eslint/no-unused-vars
+  6:10  warning  'format' is defined but never used   @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\dashboard\dtr-admin\page.tsx
+   3:41  warning  'CardTitle' is defined but never used       @typescript-eslint/no-unused-vars
+  30:30  warning  'error' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\dashboard\dtr\dtr-page-client.tsx
+   48:18  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   49:14  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   50:17  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  106:26  warning  'e' is defined but never used             @typescript-eslint/no-unused-vars
+  132:22  warning  'row' is defined but never used           @typescript-eslint/no-unused-vars
+  162:41  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\dashboard\dtr\page.tsx
+  4:26  warning  'getEmployeeProfile' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\dashboard\ipcr\ipcr-client.tsx
+   15:10   warning  'Input' is defined but never used                                @typescript-eslint/no-unused-vars
+   16:10   warning  'Textarea' is defined but never used                             @typescript-eslint/no-unused-vars
+   17:10   warning  'Card' is defined but never used                                 @typescript-eslint/no-unused-vars
+   17:16   warning  'CardContent' is defined but never used                          @typescript-eslint/no-unused-vars
+   17:29   warning  'CardHeader' is defined but never used                           @typescript-eslint/no-unused-vars
+   17:41   warning  'CardTitle' is defined but never used                            @typescript-eslint/no-unused-vars
+   17:52   warning  'CardDescription' is defined but never used                      @typescript-eslint/no-unused-vars
+   54:77   error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   54:94   error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   54:108  error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   59:49   error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   66:56   error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   81:11   warning  'canEditTargets' is assigned a value but never used              @typescript-eslint/no-unused-vars
+  121:31   error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  147:51   error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  169:18   warning  'err' is defined but never used                                  @typescript-eslint/no-unused-vars
+  351:84   error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  399:73   error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  424:46   error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  434:22   error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  440:105  error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  463:81   error    `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+  463:92   error    `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+  468:43   error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\dashboard\layout.tsx
+  20:9  error    Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\dashboard\layout.tsx:20:9
+  18 |
+  19 |     useEffect(() => {
+> 20 |         setIsMounted(true)
+     |         ^^^^^^^^^^^^ Avoid calling setState() directly within an effect
+  21 |
+  22 |         async function fetchUser() {
+  23 |             const { data: { user } } = await supabase.auth.getUser()  react-hooks/set-state-in-effect
+  52:8  warning  React Hook useEffect has a missing dependency: 'supabase'. Either include it or remove the dependency array                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 react-hooks/exhaustive-deps
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\dashboard\leaves\leaves-page-client.tsx
+   50:5   warning  'balances' is defined but never used      @typescript-eslint/no-unused-vars
+   54:15  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   55:19  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   56:14  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   64:42  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  139:26  warning  'e' is defined but never used             @typescript-eslint/no-unused-vars
+  150:26  warning  'e' is defined but never used             @typescript-eslint/no-unused-vars
+  168:22  warning  'row' is defined but never used           @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\dashboard\monitoring\page.tsx
+  24:55  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\dashboard\page.tsx
+   2:10  warning  'Suspense' is defined but never used              @typescript-eslint/no-unused-vars
+   5:10  warning  'Skeleton' is defined but never used              @typescript-eslint/no-unused-vars
+  57:11  warning  'canViewOPCR' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  94:53  error    Unexpected any. Specify a different type          @typescript-eslint/no-explicit-any
+  95:51  error    Unexpected any. Specify a different type          @typescript-eslint/no-explicit-any
+  96:46  error    Unexpected any. Specify a different type          @typescript-eslint/no-explicit-any
+  97:47  error    Unexpected any. Specify a different type          @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\dashboard\profile\profile-client-wrapper.tsx
+  16:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\dashboard\profile\profile-form.tsx
+  16:6   warning  'ProfileData' is defined but never used   @typescript-eslint/no-unused-vars
+  38:18  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\dashboard\rate\[id]\rating-client.tsx
+   27:19  warning  'Save' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     @typescript-eslint/no-unused-vars
+   34:56  error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             @typescript-eslint/no-explicit-any
+   43:55  error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             @typescript-eslint/no-explicit-any
+   45:9   error    Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\dashboard\rate\[id]\rating-client.tsx:45:9
+  43 |         const total = targets.reduce((acc: number, t: any) => acc + (t.average_score || 0), 0)
+  44 |         const avg = total > 0 ? total / targets.length : 0
+> 45 |         setGrandAverage(parseFloat(avg.toFixed(2)))
+     |         ^^^^^^^^^^^^^^^ Avoid calling setState() directly within an effect
+  46 |     }, [targets])
+  47 |
+  48 |     async function handleScoreChange(targetId: string, field: 'q' | 'e' | 't', value: string) {  react-hooks/set-state-in-effect
+   56:48  error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             @typescript-eslint/no-explicit-any
+  127:47  error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\dashboard\rewards\page.tsx
+  28:43  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  47:53  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\login\actions.ts
+  17:13  warning  'data' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  47:13  warning  'data' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\app\login\page.tsx
+  138:34  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\admin\admin-dashboard-client.tsx
+  28:23  warning  'toggleCycle' is defined but never used   @typescript-eslint/no-unused-vars
+  35:19  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  36:25  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\admin\audit-log-viewer.tsx
+  27:38  error    Unexpected any. Specify a different type                                                                      @typescript-eslint/no-explicit-any
+  49:8   warning  React Hook useEffect has a missing dependency: 'fetchLogs'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\admin\dtr-encoder-grid.tsx
+   8:10  warning  'format' is defined but never used        @typescript-eslint/no-unused-vars
+   9:19  warning  'Save' is defined but never used          @typescript-eslint/no-unused-vars
+  14:5   warning  'month' is defined but never used         @typescript-eslint/no-unused-vars
+  15:5   warning  'year' is defined but never used          @typescript-eslint/no-unused-vars
+  19:18  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\auth\session-timeout.tsx
+  35:13  warning  'isWarning' is assigned a value but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          @typescript-eslint/no-unused-vars
+  54:13  error    Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\auth\session-timeout.tsx:54:13
+  52 |             }, 1000)
+  53 |         } else if (countdown === 0) {
+> 54 |             handleLogout()
+     |             ^^^^^^^^^^^^ Avoid calling setState() directly within an effect
+  55 |         }
+  56 |
+  57 |         return () => {  react-hooks/set-state-in-effect
+  60:8   warning  React Hook useEffect has a missing dependency: 'handleLogout'. Either include it or remove the dependency array                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         react-hooks/exhaustive-deps
+  92:26  error    `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         react/no-unescaped-entities
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\dashboard\attendance-calendar.tsx
+   7:85  warning  'isSameMonth' is defined but never used   @typescript-eslint/no-unused-vars
+  13:58  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  42:45  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\dashboard\attendance-widget.tsx
+   4:16  warning  'CardContent' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    @typescript-eslint/no-unused-vars
+   8:5   warning  'AlertCircle' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    @typescript-eslint/no-unused-vars
+  44:9   error    Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\dashboard\attendance-widget.tsx:44:9
+  42 |     // Handle hydration mismatch by calculating date only on client
+  43 |     useEffect(() => {
+> 44 |         setMounted(true)
+     |         ^^^^^^^^^^ Avoid calling setState() directly within an effect
+  45 |         const today = new Date().toISOString().split('T')[0]
+  46 |         setTodaysLog(logs.find(log => log.date === today))
+  47 |     }, [logs])  react-hooks/set-state-in-effect
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\dashboard\dashboard-widget.tsx
+  5:10  warning  'Button' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\dashboard\dtr-compliance-chart.tsx
+  16:45  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\dashboard\global-search.tsx
+   7:8   warning  'Link' is defined but never used             @typescript-eslint/no-unused-vars
+  12:44  error    Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+  16:11  warning  'router' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\dashboard\kpi-stats-grid.tsx
+  23:20  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\dashboard\leave-panel.tsx
+   6:10  warning  'Input' is defined but never used          @typescript-eslint/no-unused-vars
+   7:10  warning  'Textarea' is defined but never used       @typescript-eslint/no-unused-vars
+   8:10  warning  'Select' is defined but never used         @typescript-eslint/no-unused-vars
+   8:18  warning  'SelectContent' is defined but never used  @typescript-eslint/no-unused-vars
+   8:33  warning  'SelectItem' is defined but never used     @typescript-eslint/no-unused-vars
+   8:45  warning  'SelectTrigger' is defined but never used  @typescript-eslint/no-unused-vars
+   8:60  warning  'SelectValue' is defined but never used    @typescript-eslint/no-unused-vars
+   9:10  warning  'Label' is defined but never used          @typescript-eslint/no-unused-vars
+  14:24  warning  'Clock' is defined but never used          @typescript-eslint/no-unused-vars
+  14:31  warning  'CheckCircle2' is defined but never used   @typescript-eslint/no-unused-vars
+  14:45  warning  'XCircle' is defined but never used        @typescript-eslint/no-unused-vars
+  19:10  warning  'SubmitButton' is defined but never used   @typescript-eslint/no-unused-vars
+  22:15  error    Unexpected any. Specify a different type   @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\dashboard\performance-hub.tsx
+  3:16  warning  'CardContent' is defined but never used     @typescript-eslint/no-unused-vars
+  6:10  warning  'ArrowLeftRight' is defined but never used  @typescript-eslint/no-unused-vars
+  6:36  warning  'CheckCircle2' is defined but never used    @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\dashboard\performance-ratings-chart.tsx
+   3:16  warning  'CardHeader' is defined but never used           @typescript-eslint/no-unused-vars
+   3:28  warning  'CardTitle' is defined but never used            @typescript-eslint/no-unused-vars
+   3:39  warning  'CardContent' is defined but never used          @typescript-eslint/no-unused-vars
+   4:10  warning  'BarChart3' is defined but never used            @typescript-eslint/no-unused-vars
+   4:21  warning  'TrendingUp' is defined but never used           @typescript-eslint/no-unused-vars
+   4:33  warning  'Users' is defined but never used                @typescript-eslint/no-unused-vars
+   5:10  warning  'Bar' is defined but never used                  @typescript-eslint/no-unused-vars
+   5:15  warning  'BarChart' is defined but never used             @typescript-eslint/no-unused-vars
+   5:25  warning  'ResponsiveContainer' is defined but never used  @typescript-eslint/no-unused-vars
+   5:46  warning  'XAxis' is defined but never used                @typescript-eslint/no-unused-vars
+   5:53  warning  'YAxis' is defined but never used                @typescript-eslint/no-unused-vars
+   5:60  warning  'Tooltip' is defined but never used              @typescript-eslint/no-unused-vars
+   5:69  warning  'Cell' is defined but never used                 @typescript-eslint/no-unused-vars
+  23:11  warning  'maxVal' is assigned a value but never used      @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\dashboard\quick-access.tsx
+  5:47  warning  'Settings' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\dashboard\rating-trend-chart.tsx
+   8:10  warning  'cn' is defined but never used            @typescript-eslint/no-unused-vars
+  23:45  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\dashboard\sidebar.tsx
+  13:5  warning  'Users' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\development-plan\achieve-dialog.tsx
+  50:23  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  80:87  error  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+  80:98  error  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\development-plan\development-plan-page-client.tsx
+  12:5   warning  'Filter' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         @typescript-eslint/no-unused-vars
+  15:5   warning  'XCircle' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        @typescript-eslint/no-unused-vars
+  16:5   warning  'MoreHorizontal' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 @typescript-eslint/no-unused-vars
+  17:5   warning  'UserCircle' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     @typescript-eslint/no-unused-vars
+  18:5   warning  'ArrowUpRight' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   @typescript-eslint/no-unused-vars
+  19:5   warning  'Calendar' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       @typescript-eslint/no-unused-vars
+  55:27  warning  'DevelopmentPlanStatus' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          @typescript-eslint/no-unused-vars
+  61:14  error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   @typescript-eslint/no-explicit-any
+  62:19  error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   @typescript-eslint/no-explicit-any
+  63:20  error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   @typescript-eslint/no-explicit-any
+  64:19  error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   @typescript-eslint/no-explicit-any
+  73:11  warning  'router' is assigned a value but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                @typescript-eslint/no-unused-vars
+  87:9   error    Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\development-plan\development-plan-page-client.tsx:87:9
+  85 |
+  86 |     useEffect(() => {
+> 87 |         setMounted(true)
+     |         ^^^^^^^^^^ Avoid calling setState() directly within an effect
+  88 |     }, [])
+  89 |
+  90 |     const role = profile.role  react-hooks/set-state-in-effect
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\development-plan\plan-form-drawer.tsx
+   85:14  error    Unexpected any. Specify a different type   @typescript-eslint/no-explicit-any
+   86:20  error    Unexpected any. Specify a different type   @typescript-eslint/no-explicit-any
+   93:5   warning  'profile' is defined but never used        @typescript-eslint/no-unused-vars
+   94:5   warning  'ratingPeriods' is defined but never used  @typescript-eslint/no-unused-vars
+   96:48  error    Unexpected any. Specify a different type   @typescript-eslint/no-explicit-any
+   97:56  error    Unexpected any. Specify a different type   @typescript-eslint/no-explicit-any
+  205:23  error    Unexpected any. Specify a different type   @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\development-plan\plan-view-drawer.tsx
+    9:5   warning  'SheetDescription' is defined but never used  @typescript-eslint/no-unused-vars
+   15:10  warning  'Separator' is defined but never used         @typescript-eslint/no-unused-vars
+   41:14  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  181:47  warning  'isPastM' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  293:42  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\dtr\download-docx-button.tsx
+  14:5  warning  'BorderStyle' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\dtr\dtr-form.tsx
+  10:5   warning  'FormItem' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                @typescript-eslint/no-unused-vars
+  11:5   warning  'FormLabel' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               @typescript-eslint/no-unused-vars
+  12:5   warning  'FormMessage' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             @typescript-eslint/no-unused-vars
+  27:10  warning  'Clock' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   @typescript-eslint/no-unused-vars
+  53:21  warning  Compilation Skipped: Use of incompatible library
+
+This API returns functions which cannot be memoized without leading to stale UI. To prevent this, by default React Compiler will skip memoizing this component/hook. However, you may see issues if values from this API are passed to other components/hooks that are memoized.
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\dtr\dtr-form.tsx:53:21
+  51 |     })
+  52 |
+> 53 |     const remarks = form.watch("remarks") || ""
+     |                     ^^^^ React Hook Form's `useForm()` API returns a `watch()` function which cannot be memoized safely.
+  54 |
+  55 |     return (
+  56 |         <Form {...form}>  react-hooks/incompatible-library
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\dtr\punch-clock.tsx
+   4:41  warning  'CardTitle' is defined but never used     @typescript-eslint/no-unused-vars
+   6:10  warning  'Badge' is defined but never used         @typescript-eslint/no-unused-vars
+   8:10  warning  'Clock' is defined but never used         @typescript-eslint/no-unused-vars
+  13:58  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  30:18  warning  'err' is defined but never used           @typescript-eslint/no-unused-vars
+  50:22  warning  'e' is defined but never used             @typescript-eslint/no-unused-vars
+  67:65  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\dtr\smart-encoder.tsx
+   3:20  warning  'useEffect' is defined but never used          @typescript-eslint/no-unused-vars
+  32:16  error    Unexpected any. Specify a different type       @typescript-eslint/no-explicit-any
+  37:52  error    Unexpected any. Specify a different type       @typescript-eslint/no-explicit-any
+  38:44  error    Unexpected any. Specify a different type       @typescript-eslint/no-explicit-any
+  39:46  error    Unexpected any. Specify a different type       @typescript-eslint/no-explicit-any
+  42:19  warning  'setMonth' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  43:18  warning  'setYear' is assigned a value but never used   @typescript-eslint/no-unused-vars
+  50:51  error    Unexpected any. Specify a different type       @typescript-eslint/no-explicit-any
+  56:18  warning  'e' is defined but never used                  @typescript-eslint/no-unused-vars
+  63:35  error    Unexpected any. Specify a different type       @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\ipcr\accomplishment-input.tsx
+  2:10  warning  'Button' is defined but never used  @typescript-eslint/no-unused-vars
+  3:10  warning  'Check' is defined but never used   @typescript-eslint/no-unused-vars
+  3:17  warning  'X' is defined but never used       @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\ipcr\attachment-list.tsx
+  33:5   warning  'ipcr_form_id' is defined but never used  @typescript-eslint/no-unused-vars
+  60:18  warning  'err' is defined but never used           @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\ipcr\attachment-uploader.tsx
+  120:27  error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           @typescript-eslint/no-explicit-any
+  140:36  error    Compilation Skipped: Existing memoization could not be preserved
+
+React Compiler has skipped optimizing this component because the existing manual memoization could not be preserved. The inferred dependencies did not match the manually specified dependencies, which could cause the value to change more or less frequently than expected. The inferred dependency was `handleUpload`, but the source dependencies were []. Inferred dependency not present in source.
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\ipcr\attachment-uploader.tsx:140:36
+  138 |     }, [])
+  139 |
+> 140 |     const handleDrop = useCallback((e: React.DragEvent) => {
+      |                                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+> 141 |         e.preventDefault()
+      | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 142 |         e.stopPropagation()
+      | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 143 |         handleUpload(e.dataTransfer.files)
+      | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 144 |     }, [])
+      | ^^^^^^ Could not preserve existing manual memoization
+  145 |
+  146 |     // Render Compact Mode
+  147 |     if (compact) {  react-hooks/preserve-manual-memoization
+  144:8   warning  React Hook useCallback has a missing dependency: 'handleUpload'. Either include it or remove the dependency array                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  react-hooks/exhaustive-deps
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\ipcr\download-excel-button.tsx
+  27:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  74:60  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  80:49  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\ipcr\download-word-button.tsx
+   38:19  warning  'thinBorder' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  224:60  error    Unexpected any. Specify a different type         @typescript-eslint/no-explicit-any
+  235:45  error    Unexpected any. Specify a different type         @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\ipcr\evidence-modal.tsx
+  24:5   warning  'X' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      @typescript-eslint/no-unused-vars
+  37:13  error    Error: Cannot access variable before it is declared
+
+`loadFiles` is accessed before it is declared, which prevents the earlier access from updating when this value changes over time.
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\ipcr\evidence-modal.tsx:37:13
+  35 |     useEffect(() => {
+  36 |         if (isOpen) {
+> 37 |             loadFiles()
+     |             ^^^^^^^^^ `loadFiles` accessed before it is declared
+  38 |         }
+  39 |     }, [isOpen, targetId])
+  40 |
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\ipcr\evidence-modal.tsx:41:5
+  39 |     }, [isOpen, targetId])
+  40 |
+> 41 |     async function loadFiles() {
+     |     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 42 |         setIsLoading(true)
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 43 |         const data = await getEvidenceFiles(targetId)
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 44 |         setFiles(data || [])
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 45 |         setIsLoading(false)
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^
+> 46 |     }
+     | ^^^^^^ `loadFiles` is declared here
+  47 |
+  48 |     async function handleUpload(e: React.ChangeEvent<HTMLInputElement>) {
+  49 |         if (!e.target.files || e.target.files.length === 0) return  react-hooks/immutability
+  39:8   warning  React Hook useEffect has a missing dependency: 'loadFiles'. Either include it or remove the dependency array                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       react-hooks/exhaustive-deps
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\ipcr\ipcr-approval-drawer.tsx
+    4:34  warning  'useWatch' is defined but never used                             @typescript-eslint/no-unused-vars
+   39:5   warning  'MessageSquare' is defined but never used                        @typescript-eslint/no-unused-vars
+   54:14  error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   82:5   warning  'profile' is defined but never used                              @typescript-eslint/no-unused-vars
+  106:56  warning  'getValues' is assigned a value but never used                   @typescript-eslint/no-unused-vars
+  110:13  warning  'fields' is assigned a value but never used                      @typescript-eslint/no-unused-vars
+  151:40  error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  172:23  error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  198:23  error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  351:93  error    `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\ipcr\ipcr-form-drawer.tsx
+   29:5    warning  'FormMessage' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                       @typescript-eslint/no-unused-vars
+   43:10   warning  'SubmitButton' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                      @typescript-eslint/no-unused-vars
+   68:20   warning  'IPCROutput' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                        @typescript-eslint/no-unused-vars
+   83:14   error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                      @typescript-eslint/no-explicit-any
+   84:19   error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                      @typescript-eslint/no-explicit-any
+  109:70   error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                      @typescript-eslint/no-explicit-any
+  110:50   error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                      @typescript-eslint/no-explicit-any
+  135:5    warning  React Hook useEffect contains a call to 'setShowSubmitConfirm'. Without a list of dependencies, this can lead to an infinite chain of updates. To fix this, pass [isOpen, existingForm, activePeriod, profile, form, activeOPCR, isOPCRRefExpanded, fields, formAttachments, isSaving, showSubmitConfirm, onClose, potentialSupervisors, outputAttachments, move, remove, append] as a second argument to the useEffect Hook  react-hooks/exhaustive-deps
+  152:26   error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                      @typescript-eslint/no-explicit-any
+  182:9    error    React Hook "useEffect" cannot be called inside a callback. React Hooks must be called in a React function component or a custom React Hook function                                                                                                                                                                                                                                                                           react-hooks/rules-of-hooks
+  192:12   warning  React Hook useEffect has unnecessary dependencies: 'existingForm.id' and 'isOpen'. Either exclude them or remove the dependency array. Outer scope values like 'isOpen' aren't valid dependencies because mutating them doesn't re-render the component                                                                                                                                                                       react-hooks/exhaustive-deps
+  195:9    error    React Hook "useEffect" cannot be called inside a callback. React Hooks must be called in a React function component or a custom React Hook function                                                                                                                                                                                                                                                                           react-hooks/rules-of-hooks
+  205:12   warning  React Hook useEffect has unnecessary dependencies: 'activePeriod', 'existingForm', 'form', 'isOpen', and 'profile'. Either exclude them or remove the dependency array. Outer scope values like 'isOpen' aren't valid dependencies because mutating them doesn't re-render the component                                                                                                                                      react-hooks/exhaustive-deps
+  209:32   error    React Hook "useWatch" cannot be called inside a callback. React Hooks must be called in a React function component or a custom React Hook function                                                                                                                                                                                                                                                                            react-hooks/rules-of-hooks
+  211:29   error    React Hook "useMemo" cannot be called inside a callback. React Hooks must be called in a React function component or a custom React Hook function                                                                                                                                                                                                                                                                             react-hooks/rules-of-hooks
+  221:30   error    React Hook "useMemo" cannot be called inside a callback. React Hooks must be called in a React function component or a custom React Hook function                                                                                                                                                                                                                                                                             react-hooks/rules-of-hooks
+  226:34   error    React Hook "useMemo" cannot be called inside a callback. React Hooks must be called in a React function component or a custom React Hook function                                                                                                                                                                                                                                                                             react-hooks/rules-of-hooks
+  244:27   error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                      @typescript-eslint/no-explicit-any
+  263:69   error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                      @typescript-eslint/no-explicit-any
+  270:27   error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                      @typescript-eslint/no-explicit-any
+  349:82   error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                      @typescript-eslint/no-explicit-any
+  509:94   error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                      @typescript-eslint/no-explicit-any
+  558:60   error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                      @typescript-eslint/no-explicit-any
+  562:66   error    'Paperclip' is not defined                                                                                                                                                                                                                                                                                                                                                                                                    react/jsx-no-undef
+  566:91   error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                      @typescript-eslint/no-explicit-any
+  569:109  error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                      @typescript-eslint/no-explicit-any
+  574:86   error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                      @typescript-eslint/no-explicit-any
+  576:106  error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                      @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\ipcr\ipcr-form.tsx
+   12:5   warning  'FormMessage' is defined but never used                                                                                                 @typescript-eslint/no-unused-vars
+   62:42  error    Unexpected any. Specify a different type                                                                                                @typescript-eslint/no-explicit-any
+   63:40  error    Unexpected any. Specify a different type                                                                                                @typescript-eslint/no-explicit-any
+  137:8   warning  React Hook useMemo has a missing dependency: 'form'. Either include it or remove the dependency array                                   react-hooks/exhaustive-deps
+  137:9   warning  React Hook useMemo has a complex expression in the dependency array. Extract it to a separate variable so it can be statically checked  react-hooks/exhaustive-deps
+  137:36  warning  React Hook useMemo has a complex expression in the dependency array. Extract it to a separate variable so it can be statically checked  react-hooks/exhaustive-deps
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\ipcr\ipcr-page-client.tsx
+   8:5   warning  'Search' is defined but never used               @typescript-eslint/no-unused-vars
+   9:5   warning  'Filter' is defined but never used               @typescript-eslint/no-unused-vars
+  10:5   warning  'MoreHorizontal' is defined but never used       @typescript-eslint/no-unused-vars
+  15:5   warning  'RotateCcw' is defined but never used            @typescript-eslint/no-unused-vars
+  16:5   warning  'Star' is defined but never used                 @typescript-eslint/no-unused-vars
+  18:5   warning  'Download' is defined but never used             @typescript-eslint/no-unused-vars
+  22:10  warning  'Input' is defined but never used                @typescript-eslint/no-unused-vars
+  25:5   warning  'TabsContent' is defined but never used          @typescript-eslint/no-unused-vars
+  30:5   warning  'DropdownMenu' is defined but never used         @typescript-eslint/no-unused-vars
+  31:5   warning  'DropdownMenuContent' is defined but never used  @typescript-eslint/no-unused-vars
+  32:5   warning  'DropdownMenuItem' is defined but never used     @typescript-eslint/no-unused-vars
+  33:5   warning  'DropdownMenuTrigger' is defined but never used  @typescript-eslint/no-unused-vars
+  39:10  warning  'toast' is defined but never used                @typescript-eslint/no-unused-vars
+  44:5   warning  'IPCRStatus' is defined but never used           @typescript-eslint/no-unused-vars
+  45:5   warning  'AdjectivalRating' is defined but never used     @typescript-eslint/no-unused-vars
+  55:21  error    Unexpected any. Specify a different type         @typescript-eslint/no-explicit-any
+  57:19  error    Unexpected any. Specify a different type         @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\ipcr\ipcr-review-drawer.tsx
+   35:14  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   67:23  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  101:49  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\ipcr\ipcr-summary-modal.tsx
+   32:5   warning  'Download' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             @typescript-eslint/no-unused-vars
+   33:5   warning  'Info' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 @typescript-eslint/no-unused-vars
+   47:19  error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         @typescript-eslint/no-explicit-any
+   56:44  error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         @typescript-eslint/no-explicit-any
+   57:44  error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         @typescript-eslint/no-explicit-any
+   58:12  warning  'isLoading' is assigned a value but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   @typescript-eslint/no-unused-vars
+   70:13  error    Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\ipcr\ipcr-summary-modal.tsx:70:13
+  68 |     useEffect(() => {
+  69 |         if (selectedPeriodId) {
+> 70 |             setIsLoading(true)
+     |             ^^^^^^^^^^^^ Avoid calling setState() directly within an effect
+  71 |             getIPCRSummaryReport(selectedPeriodId).then(res => {
+  72 |                 if (res.data) setSummary(res.data)
+  73 |                 setIsLoading(false)  react-hooks/set-state-in-effect
+   83:49  error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         @typescript-eslint/no-explicit-any
+  158:84  error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         @typescript-eslint/no-explicit-any
+  205:84  error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\ipcr\ipcr-view-drawer.tsx
+   17:5    warning  'Eye' is defined but never used                                                                          @typescript-eslint/no-unused-vars
+   18:5    warning  'Download' is defined but never used                                                                     @typescript-eslint/no-unused-vars
+   19:5    warning  'User' is defined but never used                                                                         @typescript-eslint/no-unused-vars
+   20:5    warning  'Building2' is defined but never used                                                                    @typescript-eslint/no-unused-vars
+   21:5    warning  'Calendar' is defined but never used                                                                     @typescript-eslint/no-unused-vars
+   22:5    warning  'CheckCircle2' is defined but never used                                                                 @typescript-eslint/no-unused-vars
+   23:5    warning  'Clock' is defined but never used                                                                        @typescript-eslint/no-unused-vars
+   24:5    warning  'Quote' is defined but never used                                                                        @typescript-eslint/no-unused-vars
+   25:5    warning  'ArrowRight' is defined but never used                                                                   @typescript-eslint/no-unused-vars
+   26:5    warning  'TrendingUp' is defined but never used                                                                   @typescript-eslint/no-unused-vars
+   27:5    warning  'Plus' is defined but never used                                                                         @typescript-eslint/no-unused-vars
+   28:5    warning  'ClipboardList' is defined but never used                                                                @typescript-eslint/no-unused-vars
+   71:15   error    Unexpected any. Specify a different type                                                                 @typescript-eslint/no-explicit-any
+   82:38   error    Unexpected any. Specify a different type                                                                 @typescript-eslint/no-explicit-any
+  114:8    warning  React Hook useEffect has a missing dependency: 'form'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  344:53   error    `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`                                          react/no-unescaped-entities
+  344:112  error    `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`                                          react/no-unescaped-entities
+  376:114  error    `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`                                          react/no-unescaped-entities
+  376:125  error    `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`                                          react/no-unescaped-entities
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\ipcr\rating-form.tsx
+   12:25   warning  'Check' is defined but never used         @typescript-eslint/no-unused-vars
+   12:32   warning  'AlertCircle' is defined but never used   @typescript-eslint/no-unused-vars
+   16:76   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   16:91   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   22:66   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   23:27   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   45:39   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   64:45   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  106:60   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  130:67   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  161:117  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  195:62   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\ipcr\target-form.tsx
+   3:10  warning  'useState' is defined but never used     @typescript-eslint/no-unused-vars
+  11:5   warning  'FormItem' is defined but never used     @typescript-eslint/no-unused-vars
+  12:5   warning  'FormLabel' is defined but never used    @typescript-eslint/no-unused-vars
+  13:5   warning  'FormMessage' is defined but never used  @typescript-eslint/no-unused-vars
+  17:10  warning  'Badge' is defined but never used        @typescript-eslint/no-unused-vars
+  18:10  warning  'Plus' is defined but never used         @typescript-eslint/no-unused-vars
+  18:16  warning  'ShieldCheck' is defined but never used  @typescript-eslint/no-unused-vars
+  18:29  warning  'Loader2' is defined but never used      @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\layout\notification-bell.tsx
+  177:80  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\layout\sidebar.tsx
+  105:40  warning  'pendingCount' is assigned a value but never used                                                                                                                                                                                                                                        @typescript-eslint/no-unused-vars
+  211:33  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\leaves\leave-form.tsx
+  12:5   warning  'FormMessage' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  @typescript-eslint/no-unused-vars
+  27:10  warning  'CalendarOff' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  @typescript-eslint/no-unused-vars
+  45:39  error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+  53:23  warning  Compilation Skipped: Use of incompatible library
+
+This API returns functions which cannot be memoized without leading to stale UI. To prevent this, by default React Compiler will skip memoizing this component/hook. However, you may see issues if values from this API are passed to other components/hooks that are memoized.
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\leaves\leave-form.tsx:53:23
+  51 |     })
+  52 |
+> 53 |     const isHalfDay = form.watch("is_half_day")
+     |                       ^^^^ React Hook Form's `useForm()` API returns a `watch()` function which cannot be memoized safely.
+  54 |     const dateFrom = form.watch("date_from")
+  55 |     const dateTo = form.watch("date_to")
+  56 |     const reason = form.watch("reason") || ""  react-hooks/incompatible-library
+  74:18  warning  'e' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\monitoring\activity-dialog.tsx
+   22:5   warning  'FormDescription' is defined but never used  @typescript-eslint/no-unused-vars
+   36:18  warning  'Users' is defined but never used            @typescript-eslint/no-unused-vars
+   59:16  error    Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+  124:23  error    Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\monitoring\journal-detail-page-client.tsx
+    7:5    warning  'CalendarClock' is defined but never used                        @typescript-eslint/no-unused-vars
+    8:5    warning  'FileText' is defined but never used                             @typescript-eslint/no-unused-vars
+   12:5    warning  'Save' is defined but never used                                 @typescript-eslint/no-unused-vars
+   16:5    warning  'UserCircle' is defined but never used                           @typescript-eslint/no-unused-vars
+   58:14   error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   60:16   error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   70:12   warning  'isSubmitting' is assigned a value but never used                @typescript-eslint/no-unused-vars
+  109:23   error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  121:23   error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  131:23   error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  143:23   error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  214:116  error    `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\monitoring\monitoring-page-client.tsx
+    9:5   warning  'ChevronDown' is defined but never used                          @typescript-eslint/no-unused-vars
+   10:5   warning  'ChevronUp' is defined but never used                            @typescript-eslint/no-unused-vars
+   12:5   warning  'Filter' is defined but never used                               @typescript-eslint/no-unused-vars
+   42:5   warning  'CardDescription' is defined but never used                      @typescript-eslint/no-unused-vars
+   44:5   warning  'CardTitle' is defined but never used                            @typescript-eslint/no-unused-vars
+   53:10  warning  'MonitoringJournal' is defined but never used                    @typescript-eslint/no-unused-vars
+   53:29  warning  'MonitoringJournalStatus' is defined but never used              @typescript-eslint/no-unused-vars
+   54:35  warning  'submitMonitoringJournal' is defined but never used              @typescript-eslint/no-unused-vars
+   54:60  warning  'noteMonitoringJournal' is defined but never used                @typescript-eslint/no-unused-vars
+   58:14  error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   59:22  error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   60:20  error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   61:19  error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  149:23  error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  258:38  error    `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\monitoring\note-journal-dialog.tsx
+  24:14  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  42:23  error  Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  60:65  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\monitoring\task-dialog.tsx
+   55:16  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  125:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\opcr\opcr-consolidation-modal.tsx
+   13:10  warning  'Select' is defined but never used                               @typescript-eslint/no-unused-vars
+   13:18  warning  'SelectContent' is defined but never used                        @typescript-eslint/no-unused-vars
+   13:33  warning  'SelectItem' is defined but never used                           @typescript-eslint/no-unused-vars
+   13:45  warning  'SelectTrigger' is defined but never used                        @typescript-eslint/no-unused-vars
+   13:60  warning  'SelectValue' is defined but never used                          @typescript-eslint/no-unused-vars
+   16:10  warning  'Separator' is defined but never used                            @typescript-eslint/no-unused-vars
+   22:5   warning  'CheckCircle' is defined but never used                          @typescript-eslint/no-unused-vars
+   36:19  error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   44:12  warning  'isLoading' is assigned a value but never used                   @typescript-eslint/no-unused-vars
+   45:50  error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   59:25  error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+   85:52  error    `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+  202:85  error    Unexpected any. Specify a different type                         @typescript-eslint/no-explicit-any
+  202:90  warning  'i' is defined but never used                                    @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\opcr\opcr-form-drawer.tsx
+   19:16   warning  'FormControl' is defined but never used   @typescript-eslint/no-unused-vars
+   19:40   warning  'FormItem' is defined but never used      @typescript-eslint/no-unused-vars
+   19:50   warning  'FormLabel' is defined but never used     @typescript-eslint/no-unused-vars
+   19:61   warning  'FormMessage' is defined but never used   @typescript-eslint/no-unused-vars
+   22:10   warning  'Separator' is defined but never used     @typescript-eslint/no-unused-vars
+   47:20   warning  'OPCROutput' is defined but never used    @typescript-eslint/no-unused-vars
+   86:14   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   87:19   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  119:46   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  130:34   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  207:23   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  214:34   warning  '_data' is defined but never used         @typescript-eslint/no-unused-vars
+  222:23   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  235:95   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  249:23   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  266:23   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  286:23   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  356:112  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  371:85   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  394:94   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  403:94   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  415:94   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  430:94   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  443:98   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  454:102  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  463:102  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  472:102  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  530:62   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  559:75   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  584:78   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  624:92   error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\opcr\opcr-page-client.tsx
+   8:5   warning  'Search' is defined but never used            @typescript-eslint/no-unused-vars
+   9:5   warning  'Filter' is defined but never used            @typescript-eslint/no-unused-vars
+  10:5   warning  'MoreHorizontal' is defined but never used    @typescript-eslint/no-unused-vars
+  19:5   warning  'Download' is defined but never used          @typescript-eslint/no-unused-vars
+  23:10  warning  'Input' is defined but never used             @typescript-eslint/no-unused-vars
+  34:10  warning  'toast' is defined but never used             @typescript-eslint/no-unused-vars
+  39:5   warning  'OPCRStatus' is defined but never used        @typescript-eslint/no-unused-vars
+  40:5   warning  'AdjectivalRating' is defined but never used  @typescript-eslint/no-unused-vars
+  48:14  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  51:20  error    Unexpected any. Specify a different type      @typescript-eslint/no-explicit-any
+  73:11  warning  'isChief' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\opcr\opcr-view-drawer.tsx
+   14:10   warning  'Separator' is defined but never used                            @typescript-eslint/no-unused-vars
+   17:5    warning  'Download' is defined but never used                             @typescript-eslint/no-unused-vars
+   18:5    warning  'Printer' is defined but never used                              @typescript-eslint/no-unused-vars
+   22:5    warning  'User' is defined but never used                                 @typescript-eslint/no-unused-vars
+   23:5    warning  'Calendar' is defined but never used                             @typescript-eslint/no-unused-vars
+   26:20   warning  'OPCROutput' is defined but never used                           @typescript-eslint/no-unused-vars
+   28:10   warning  'toast' is defined but never used                                @typescript-eslint/no-unused-vars
+   88:130  error    `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+  126:85   warning  'oIdx' is defined but never used                                 @typescript-eslint/no-unused-vars
+  150:69   error    `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+  150:96   error    `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\pdf\download-button.tsx
+  11:24  error    Unexpected any. Specify a different type                                                                             @typescript-eslint/no-explicit-any
+  12:79  error    Unexpected any. Specify a different type                                                                             @typescript-eslint/no-explicit-any
+  25:38  error    Unexpected any. Specify a different type                                                                             @typescript-eslint/no-explicit-any
+  60:14  error    Use "@ts-expect-error" instead of "@ts-ignore", as "@ts-ignore" will do nothing if the following line is error-free  @typescript-eslint/ban-ts-comment
+  61:17  warning  'blob' is defined but never used                                                                                     @typescript-eslint/no-unused-vars
+  61:23  warning  'url' is defined but never used                                                                                      @typescript-eslint/no-unused-vars
+  61:37  warning  'error' is defined but never used                                                                                    @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\pdf\dtr-download-button.tsx
+  10:5   warning  'month' is defined but never used         @typescript-eslint/no-unused-vars
+  15:14  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  18:11  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  26:17  warning  'blob' is defined but never used          @typescript-eslint/no-unused-vars
+  26:23  warning  'url' is defined but never used           @typescript-eslint/no-unused-vars
+  26:37  warning  'error' is defined but never used         @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\pdf\dtr-form48.tsx
+    3:50  warning  'Font' is defined but never used          @typescript-eslint/no-unused-vars
+    4:10  warning  'format' is defined but never used        @typescript-eslint/no-unused-vars
+    4:18  warning  'parseISO' is defined but never used      @typescript-eslint/no-unused-vars
+   97:14  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  100:11  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\pdf\ipcr-document.tsx
+  1:50  warning  'Image' is defined but never used  @typescript-eslint/no-unused-vars
+  1:57  warning  'Font' is defined but never used   @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\profile\avatar-upload.tsx
+  55:27  warning  'uploadData' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  77:25  error    Unexpected any. Specify a different type         @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\rewards\award-form-dialog.tsx
+   31:46  warning  'AlertCircle' is defined but never used                                                                                           @typescript-eslint/no-unused-vars
+   60:7   warning  'COLOR_MAP' is assigned a value but never used                                                                                    @typescript-eslint/no-unused-vars
+  153:8   warning  React Hook useEffect has missing dependencies: 'activePeriodName' and 'form'. Either include them or remove the dependency array  react-hooks/exhaustive-deps
+  165:50  error    Unexpected any. Specify a different type                                                                                          @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\rewards\rewards-page-client.tsx
+   28:38  warning  'PencilLine' is defined but never used    @typescript-eslint/no-unused-vars
+   91:14  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:35  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+   97:60  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  281:83  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\rewards\top-performers-modal.tsx
+  160:61  warning  'Icon' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\settings\mfa-section.tsx
+    4:46   warning  'CardFooter' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     @typescript-eslint/no-unused-vars
+   15:44   error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   @typescript-eslint/no-explicit-any
+   19:58   error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   @typescript-eslint/no-explicit-any
+   31:9    error    Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\settings\mfa-section.tsx:31:9
+  29 |
+  30 |     useEffect(() => {
+> 31 |         fetchFactors()
+     |         ^^^^^^^^^^^^ Avoid calling setState() directly within an effect
+  32 |     }, [])
+  33 |
+  34 |     const handleEnroll = async () => {  react-hooks/set-state-in-effect
+  135:37   warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    @next/next/no-img-element
+  141:100  error    `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            react/no-unescaped-entities
+  194:29   warning  'formatStr' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\settings\settings-content.tsx
+   15:35  warning  'user' is defined but never used                                                                                                                                                                                                                                                         @typescript-eslint/no-unused-vars
+   15:60  error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+   15:74  error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+  144:41  warning  Using `<img>` could result in slower LCP and higher bandwidth. Consider using `<Image />` from `next/image` or a custom image loader to automatically optimize images. This may incur additional usage or cost from your provider. See: https://nextjs.org/docs/messages/no-img-element  @next/next/no-img-element
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\spms-calendar\calendar-view.tsx
+  11:10  warning  'toast' is defined but never used         @typescript-eslint/no-unused-vars
+  74:20  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\spms-calendar\deadline-alert-banner.tsx
+    5:39  warning  'isPast' is defined but never used                                                                      @typescript-eslint/no-unused-vars
+    5:47  warning  'isToday' is defined but never used                                                                     @typescript-eslint/no-unused-vars
+    5:56  warning  'differenceInDays' is defined but never used                                                            @typescript-eslint/no-unused-vars
+    7:46  warning  'CalendarDays' is defined but never used                                                                @typescript-eslint/no-unused-vars
+   51:8   warning  React Hook useMemo has a missing dependency: 'today'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+  140:5   warning  'daysThreshold' is defined but never used                                                               @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\spms-calendar\event-detail-dialog.tsx
+   4:18  warning  'formatDistanceToNow' is defined but never used  @typescript-eslint/no-unused-vars
+  21:26  warning  'Clock' is defined but never used                @typescript-eslint/no-unused-vars
+  21:33  warning  'AlertTriangle' is defined but never used        @typescript-eslint/no-unused-vars
+  83:20  error    Unexpected any. Specify a different type         @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\spms-calendar\event-form-dialog.tsx
+    3:10  warning  'useState' is defined but never used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     @typescript-eslint/no-unused-vars
+   73:20  error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+  109:27  warning  Compilation Skipped: Use of incompatible library
+
+This API returns functions which cannot be memoized without leading to stale UI. To prevent this, by default React Compiler will skip memoizing this component/hook. However, you may see issues if values from this API are passed to other components/hooks that are memoized.
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\spms-calendar\event-form-dialog.tsx:109:27
+  107 |     })
+  108 |
+> 109 |     const selectedRoles = watch('responsible_roles') || []
+      |                           ^^^^^ React Hook Form's `useForm()` API returns a `watch()` function which cannot be memoized safely.
+  110 |     const description = watch('description') || ''
+  111 |
+  112 |     const toggleRole = (role: string) => {  react-hooks/incompatible-library
+  191:92  error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+  239:64  error    Unexpected any. Specify a different type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\spms-calendar\list-view.tsx
+    5:39  warning  'isPast' is defined but never used        @typescript-eslint/no-unused-vars
+    5:47  warning  'isToday' is defined but never used       @typescript-eslint/no-unused-vars
+   55:20  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  319:48  error    Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\spms-calendar\spms-calendar-page-client.tsx
+  45:14  error    Unexpected any. Specify a different type        @typescript-eslint/no-explicit-any
+  48:19  error    Unexpected any. Specify a different type        @typescript-eslint/no-explicit-any
+  49:20  error    Unexpected any. Specify a different type        @typescript-eslint/no-explicit-any
+  58:5   warning  'initialMonthEvents' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\ui\calendar.tsx
+  4:10  warning  'ChevronLeft' is defined but never used   @typescript-eslint/no-unused-vars
+  4:23  warning  'ChevronRight' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\ui\checkbox.tsx
+  6:18  error  An interface declaring no members is equivalent to its supertype  @typescript-eslint/no-empty-object-type
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\ui\data-table.tsx
+  69:19  warning  Compilation Skipped: Use of incompatible library
+
+This API returns functions which cannot be memoized without leading to stale UI. To prevent this, by default React Compiler will skip memoizing this component/hook. However, you may see issues if values from this API are passed to other components/hooks that are memoized.
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\ui\data-table.tsx:69:19
+  67 |     const [columnVisibility, setColumnVisibility] = useState<VisibilityState>({})
+  68 |
+> 69 |     const table = useReactTable({
+     |                   ^^^^^^^^^^^^^ TanStack Table's `useReactTable()` API returns functions that cannot be memoized safely
+  70 |         data,
+  71 |         columns,
+  72 |         onSortingChange: setSorting,  react-hooks/incompatible-library
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\components\ui\select.tsx
+  29:3  warning  'size' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\hooks\use-idle-timer.ts
+  53:9  error  Error: Calling setState synchronously within an effect can trigger cascading renders
+
+Effects are intended to synchronize state between React and external systems such as manually updating the DOM, state management libraries, or other platform APIs. In general, the body of an effect should do one or both of the following:
+* Update external systems with the latest state from React.
+* Subscribe for updates from some external system, calling setState in a callback function when external state changes.
+
+Calling setState synchronously within an effect body causes cascading renders that can hurt performance, and is not recommended. (https://react.dev/learn/you-might-not-need-an-effect).
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\hooks\use-idle-timer.ts:53:9
+  51 |
+  52 |         // Initialize timers
+> 53 |         resetTimers()
+     |         ^^^^^^^^^^^ Avoid calling setState() directly within an effect
+  54 |
+  55 |         // Add event listeners
+  56 |         events.forEach(event => {  react-hooks/set-state-in-effect
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\lib\audit-logger.ts
+  11:14  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\lib\export\development-plan-docx.ts
+   9:51  warning  'CELL_BORDER_SINGLE' is defined but never used  @typescript-eslint/no-unused-vars
+  10:5   warning  'PT9' is defined but never used                 @typescript-eslint/no-unused-vars
+  10:22  warning  'PT12' is defined but never used                @typescript-eslint/no-unused-vars
+  10:34  warning  'shadeCell' is defined but never used           @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\lib\export\docx-helpers.ts
+  60:6  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\lib\export\dtr-xlsx.ts
+   2:10  warning  'format' is defined but never used                    @typescript-eslint/no-unused-vars
+   2:34  warning  'parseISO' is defined but never used                  @typescript-eslint/no-unused-vars
+  57:17  error    Unexpected any. Specify a different type              @typescript-eslint/no-explicit-any
+  79:11  warning  'dataStartRow' is assigned a value but never used     @typescript-eslint/no-unused-vars
+  85:11  warning  'daysWithPresent' is assigned a value but never used  @typescript-eslint/no-unused-vars
+  86:11  warning  'daysWithLate' is assigned a value but never used     @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\lib\export\ipcr-docx.ts
+   98:23  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  120:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  121:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  122:27  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  169:30  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  170:42  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  171:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  172:40  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  174:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  175:35  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  176:33  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  177:37  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  178:31  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\lib\export\ipcr-summary-xlsx.ts
+   27:10  warning  'adjectivalColor' is defined but never used  @typescript-eslint/no-unused-vars
+   38:10  warning  'createCellStyle' is defined but never used  @typescript-eslint/no-unused-vars
+   65:24  error    Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+  107:20  error    Unexpected any. Specify a different type     @typescript-eslint/no-explicit-any
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\lib\export\opcr-docx.ts
+  31:10  warning  'formatPeriod' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\lib\utils.ts
+  13:9   error    'hours' is never reassigned. Use 'const' instead  prefer-const
+  25:12  warning  'e' is defined but never used                     @typescript-eslint/no-unused-vars
+
+C:\Users\pacpa\OneDrive\Desktop\HRMS ASSESSORS OFFICE\hris-portal\src\utils\supabase\session.ts
+  26:58  warning  'options' is defined but never used  @typescript-eslint/no-unused-vars
+
+Γ£û 713 problems (397 errors, 316 warnings)
+  2 errors and 0 warnings potentially fixable with the `--fix` option.
+

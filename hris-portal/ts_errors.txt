@@ -1,0 +1,6 @@
+src/app/dashboard/development-plan/page.tsx(30,9): error TS7034: Variable 'employees' implicitly has type 'any[]' in some locations where its type cannot be determined.
+src/app/dashboard/development-plan/page.tsx(43,28): error TS7005: Variable 'employees' implicitly has an 'any[]' type.
+src/app/dashboard/monitoring/page.tsx(30,9): error TS7034: Variable 'employees' implicitly has type 'any[]' in some locations where its type cannot be determined.
+src/app/dashboard/monitoring/page.tsx(49,28): error TS7005: Variable 'employees' implicitly has an 'any[]' type.
+src/app/dashboard/rewards/page.tsx(29,9): error TS7034: Variable 'employees' implicitly has type 'any[]' in some locations where its type cannot be determined.
+src/app/dashboard/rewards/page.tsx(42,28): error TS7005: Variable 'employees' implicitly has an 'any[]' type.

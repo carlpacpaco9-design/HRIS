@@ -1,0 +1,7 @@
+.next/dev/types/validator.ts(161,39): error TS2307: Cannot find module '../../../src/app/dashboard/opcr/[id]/page.js' or its corresponding type declarations.
+.next/dev/types/validator.ts(170,39): error TS2307: Cannot find module '../../../src/app/dashboard/opcr/page.js' or its corresponding type declarations.
+.next/dev/types/validator.ts(260,39): error TS2307: Cannot find module '../../../src/app/api/opcr/export/route.js' or its corresponding type declarations.
+.next/types/validator.ts(161,39): error TS2307: Cannot find module '../../src/app/dashboard/opcr/[id]/page.js' or its corresponding type declarations.
+.next/types/validator.ts(170,39): error TS2307: Cannot find module '../../src/app/dashboard/opcr/page.js' or its corresponding type declarations.
+.next/types/validator.ts(260,39): error TS2307: Cannot find module '../../src/app/api/opcr/export/route.js' or its corresponding type declarations.
+src/app/api/dpcr/export/route.ts(360,31): error TS2353: Object literal may only specify known properties, and 'margin' does not exist in type 'ISectionPropertiesOptions'.

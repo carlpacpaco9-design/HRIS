@@ -1,0 +1,8 @@
+src/app/actions/admin.ts(6,10): error TS2305: Module '"@/lib/audit-logger"' has no exported member 'logAuditEvent'.
+src/app/dashboard/admin/settings/admin-panel-client.tsx(151,42): error TS2304: Cannot find name 'Badge'.
+src/app/dashboard/admin/settings/admin-panel-client.tsx(153,43): error TS2304: Cannot find name 'Badge'.
+src/app/dashboard/admin/settings/page.tsx(43,31): error TS2322: Type 'any[] | undefined' is not assignable to type 'any[]'.
+  Type 'undefined' is not assignable to type 'any[]'.
+src/app/dashboard/admin/settings/page.tsx(43,50): error TS2322: Type 'number | undefined' is not assignable to type 'number'.
+  Type 'undefined' is not assignable to type 'number'.
+src/app/dashboard/hr-dashboard.tsx(159,83): error TS18048: 'percent' is possibly 'undefined'.

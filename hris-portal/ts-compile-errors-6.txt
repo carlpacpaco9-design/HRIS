@@ -1,0 +1,1 @@
+src/app/api/dtr/form48/route.ts(221,31): error TS2353: Object literal may only specify known properties, and 'margin' does not exist in type 'ISectionPropertiesOptions'.

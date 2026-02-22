@@ -1,0 +1,12 @@
+src/app/actions/dtr.ts(140,13): error TS2532: Object is possibly 'undefined'.
+src/app/actions/leaves.ts(203,31): error TS2345: Argument of type 'string | undefined' is not assignable to parameter of type 'string'.
+  Type 'undefined' is not assignable to type 'string'.
+src/components/monitoring/monitoring-journal-dialog.tsx(54,34): error TS2345: Argument of type 'string | undefined' is not assignable to parameter of type 'SetStateAction<string>'.
+  Type 'undefined' is not assignable to type 'SetStateAction<string>'.
+src/components/rewards/give-award-dialog.tsx(43,24): error TS2345: Argument of type 'string | undefined' is not assignable to parameter of type 'SetStateAction<string>'.
+  Type 'undefined' is not assignable to type 'SetStateAction<string>'.
+src/lib/dtr-utils.ts(23,16): error TS18048: 'h' is possibly 'undefined'.
+src/lib/dtr-utils.ts(23,25): error TS18048: 'm' is possibly 'undefined'.
+src/lib/utils.ts(13,26): error TS2345: Argument of type 'string | undefined' is not assignable to parameter of type 'string'.
+  Type 'undefined' is not assignable to type 'string'.
+src/lib/utils.ts(14,21): error TS2532: Object is possibly 'undefined'.

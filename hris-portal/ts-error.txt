@@ -1,0 +1,2 @@
+src/app/api/leaves/application/route.ts(254,49): error TS2322: Type 'Table' is not assignable to type 'string | Paragraph'.
+  Type 'Table' is missing the following properties from type 'Paragraph': properties, addRunToFront
